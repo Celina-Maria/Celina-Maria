@@ -1,4 +1,4 @@
-- 🙋‍♀️ Hi, I’m @Celina-Maria. I'm new here and still learning how this works😅
+- 🙋‍♀️ Hi, I’m @Celina-Maria
 - 📚: I’m currently learning Python, HTML, CSS, JavaScript
 - 📧: celinamaria.am@gmail.com
 
