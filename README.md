@@ -1,5 +1,5 @@
 - 🙋‍♀️ Hi, I’m @Celina-Maria
-- 📚: I’m currently learning Python, HTML, CSS, JavaScript
+- 📚: I’m currently learning HTML and CSS
 - 📧: celinamaria.am@gmail.com
 
 <!---
