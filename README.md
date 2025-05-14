@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=913bbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=913bbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Celina+Maria;tenho+30+anos;✨+seja+bem-vindo(a)+ao+meu+perfil+✨;Hi,+my+name+is+Celina+Maria;I'm+30+years+old;✨+Welcome+to+my+profile+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=913bbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Celina+Maria;✨+seja+bem-vindo(a)+ao+meu+perfil+✨;Hi,+my+name+is+Celina+Maria;✨+Welcome+to+my+profile+✨)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Celina-Maria&bg_color=212121&color=913bbf&line=913bbf&point=b4a3bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
